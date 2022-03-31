@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karolinaras
-- 👀 I’m interested in tesring,psychology.
+- 👀 I’m interested in testing,psychology.
 - 🌱 I’m currently learning testing - ISTQB Founadtion Level,HTML,CSS,SQL and English.
-- 💞️ I’m looking to collaborate on tesring manual.
+- 💞️ I’m looking to collaborate on testing manual.
 - 📫 How to reach me karolinaras1988@gmail.com
 
 <!---

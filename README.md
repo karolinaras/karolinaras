@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @karolinaras
 - 👀 I’m interested in testing,psychology.
-- 🌱 I’m currently learning testing - knowledge ISTQB Founadtion Level, HTML, CSS, SQL, geek cybersecurity and accesibility. 
+- 🌱 I’m currently learning testing - knowledge ISTQB Founadtion Level, HTML, CSS, SQL, geek cybersecurity and accesibility, OSINT. 
 - In top 1% in Try Hack Me!
-- 💞️ I’m looking to collaborate on testing manual, security testing, pentesting. 
+- 💞️ I’m looking to collaborate on testing manual, security testing, pentesting, couching.
 - 📫 How to reach me karolinaras1988@gmail.com
 www.linkedin.com/in/karolina-raś
 

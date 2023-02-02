@@ -15,8 +15,10 @@ You can click the Preview link to take a look at your changes.
 <h2>Certificates THM</h2>
 
 <h3>1. Jr Penetration Tester Learning Path</h3>
+
 ![This is an image](https://github.com/karolinaras/karolinaras/blob/ee4bc5bd1aebdb73cecb4e6968a9b17299ae2f32/THM-CERT.png)
 
 
 <h3>2. PreSecurity Learning Path<h3>
+  
 ![This is an image](https://github.com/karolinaras/karolinaras/blob/ee4bc5bd1aebdb73cecb4e6968a9b17299ae2f32/THM-PreSecurityLearningPath.png)
